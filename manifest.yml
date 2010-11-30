@@ -1,0 +1,4 @@
+extends: com_meego_packages
+requires:
+    com_meego_packages:
+        git: https://github.com/nemein/com_meego_packages.git
